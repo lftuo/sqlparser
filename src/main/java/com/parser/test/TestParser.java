@@ -1,3 +1,5 @@
+package com.parser.test;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.StringReader;
